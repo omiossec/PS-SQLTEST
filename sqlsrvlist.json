@@ -1,0 +1,20 @@
+{
+    "SqlServers":  [
+                     {
+                             "ServerName":"MyServer",
+                             "BackupFrequency":24
+                     },
+                     {
+                             "ServerName":"Srv02",
+                             "BackupFrequency":24
+                     },
+                     {
+                             "ServerName":"Srv18",
+                             "BackupFrequency":12
+                    },
+                    {
+                             "ServerName":"Srv04",
+                             "BackupFrequency":168
+                     }
+                ]
+}
